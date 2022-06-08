@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kxy666666
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @kxy
+- 👀 I’m interested in music
+- 🌱 I’m currently learning ABC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-kxy/kxy666666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
